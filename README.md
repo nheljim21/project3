@@ -6,7 +6,7 @@ A simple, responsive web application that displays real-time weather information
 
 ## 🚀 Live Demo
 
-[View the Weather App](https://yourusername.github.io/weather-app/)  
+[View the Weather App Repository](https://nheljim21.github.io/project3/)  
 *(Replace with your actual GitHub Pages link if deployed)*
 
 ---
@@ -54,7 +54,8 @@ A simple, responsive web application that displays real-time weather information
 ## 📸 Screenshots
 
 <!-- Add screenshots here if available -->
-<!-- ![Screenshot](screenshots/main.png) -->
+![Screenshot](screenshots/![Weather App](https://github.com/user-attachments/assets/d668ea0e-2f68-4fdd-9e1e-f697168a1637)
+)
 
 ---
 
