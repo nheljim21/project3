@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY"; // <-- Replace with your OpenWeatherMap API key
+const apiKey = "9bdef594d65e2cc0277c0bbbf941dd27"; // <-- Replace with your OpenWeatherMap API key
 
 document.getElementById('weatherForm').addEventListener('submit', async function(e) {
   e.preventDefault();
