@@ -1,4 +1,8 @@
 # ☀️ Weather App
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-orange)
 
 A simple, responsive web application that displays real-time weather information for any city. Powered by the OpenWeatherMap API.
 
