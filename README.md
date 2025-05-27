@@ -17,10 +17,10 @@ A simple, responsive web application that displays real-time weather information
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- **HTML5** *(for structure)*
+- **CSS3** *(for styling)*
+- **JavaScript (ES6+)** *(logic and interactivity)* 
+-[OpenWeatherMap API](https://openweathermap.org/api) *(for weather data)*
 
 ---
 
