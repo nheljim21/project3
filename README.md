@@ -19,8 +19,8 @@ A simple, responsive web application that displays real-time weather information
 
 - **HTML5** *(for structure)*
 - **CSS3** *(for styling)*
-- **JavaScript (ES6+)** *(logic and interactivity)* 
--[OpenWeatherMap API](https://openweathermap.org/api) *(for weather data)*
+- **JavaScript (ES6+)** *(logic and interactivity)*
+- [OpenWeatherMap API](https://openweathermap.org/api) *(for weather data)*
 
 ---
 
