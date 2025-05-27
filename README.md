@@ -54,7 +54,7 @@ A simple, responsive web application that displays real-time weather information
 ## 📸 Screenshot
 
 
-![Screenshot]![Weather App](https://github.com/user-attachments/assets/d668ea0e-2f68-4fdd-9e1e-f697168a1637)
+(https://github.com/user-attachments/assets/d668ea0e-2f68-4fdd-9e1e-f697168a1637)
 
 <!-- Add screenshots here if available -->
 ---
