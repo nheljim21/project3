@@ -10,7 +10,7 @@ A simple, responsive web application that displays real-time weather information
 
 ## 🚀 Live Demo
 
-[View the Weather App Repository](https://nheljim21.github.io/project3/)  
+[View the Weather App Repository](https://nheljim21.github.io/weather-app/)  
 *(Replace with your actual GitHub Pages link if deployed)*
 
 ---
